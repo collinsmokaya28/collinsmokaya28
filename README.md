@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/collins-mokaya-406b0bbb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/collins-mokaya-406b0bbb/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/collins mokaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins mokaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=collinsmokaya28&show_icons=true&locale=en&layout=compact" alt="collinsmokaya28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=collinsmokaya28&show_icons=true&locale=en" alt="collinsmokaya28" /></p>
+
